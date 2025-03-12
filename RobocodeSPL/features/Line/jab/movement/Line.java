@@ -19,7 +19,8 @@ public class Line extends Movement {
 		// Limit our speed to 5
 		bot.setMaxVelocity(8);
 		// Start moving (and turning)
-		bot.setAhead(10000 * moveDirection);
+		bot.setAhead(50);
+		bot.setTurnRight(10);
 	}
 	
 	public void listen(Event e) {

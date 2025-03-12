@@ -20,6 +20,6 @@
 	<feature manual="selected" name="ClosestSelectEnemy"/>
 	<feature automatic="selected" name="Gun"/>
 	<feature automatic="unselected" name="MaximumPowerGun"/>
-	<feature manual="selected" name="NoFireGun"/>
-	<feature automatic="unselected" name="MouseClickGun"/>
+	<feature automatic="unselected" name="NoFireGun"/>
+	<feature manual="selected" name="MouseClickGun"/>
 </configuration>
